@@ -21,8 +21,6 @@ public static void Main(String[] args){
 </code>
 </pre>
 
-[link keyword][id]
-
 
 Link: [Google][googlelink]
 
