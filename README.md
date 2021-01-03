@@ -23,7 +23,6 @@ public static void Main(String[] args){
 
 [link keyword][id]
 
-[id]: URL "Optional Title here"
 
 Link: [Google][googlelink]
 
