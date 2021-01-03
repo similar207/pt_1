@@ -29,3 +29,6 @@ public static void Main(String[] args){
 Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
+
+![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg "Optional title")
